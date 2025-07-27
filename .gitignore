@@ -1,13 +1,4 @@
-# Ignore Python cache files
 __pycache__/
 *.pyc
-
-# Ignore environment variables or secret keys
 .env
-
-# Ignore test videos
 test_video.mp4
-
-# Ignore system files (if on macOS or Windows)
-.DS_Store
-Thumbs.db
