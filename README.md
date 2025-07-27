@@ -1,4 +1,4 @@
- 🎥 Video Journal Emotion Analyzer
+ ## 🎥 Video Journal Emotion Analyzer
 
 This project is a FastAPI-based web service that accepts a public video URL (typically a user-recorded personal journal video), extracts the audio, transcribes it using Whisper, detects dominant emotions using DeepFace, and generates a summary and emotional insights using Cohere's NLP API.
 
